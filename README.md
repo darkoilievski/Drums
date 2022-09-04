@@ -1,0 +1,1 @@
+After i made the piano i wanted to make another similar project. This one was a bit more challenging than the piano one but i finished it. I practiced my JavaScript skills and i remember i lost a significant time to find the sounds for the project.
